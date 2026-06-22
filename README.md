@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
 
 ### Robotics / Control
-<img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white"/> <img src="https://img.shields.io/badge/PLC-FFD700?style=flat-square&logo=siemens&logoColor=black"/> <img src="https://img.shields.io/badge/Mitsubishi_PLC-E60012?style=flat-square&logo=mitsubishi&logoColor=white"/>
+<img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white"/> <img src="https://img.shields.io/badge/Mitsubishi_PLC-E60012?style=flat-square&logo=mitsubishi&logoColor=white"/>
 
 ### AI / Computer Vision
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black"/>
