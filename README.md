@@ -1,8 +1,21 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+# 🚀 Hyunwoo Kim
+임베디드 시스템 & 로봇 제어 엔지니어
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+---
+
+### 🛠 Tech Stack
+
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | C, Python |
+| **Embedded/HW** | STM32F411, Jetson Orin Nano |
+| **Industrial Automation** | Mitsubishi PLC, GX Works2, GT Designer3 |
+| **Robotics** | ROS (Robot Operating System) |
+
+---
+
+### 📈 Contribution & Status
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=BI00mingdays&show_icons=true&theme=tokyonight&hide_border=true" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BI00mingdays&layout=compact&theme=tokyonight&hide_border=true" height="150px"/>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
