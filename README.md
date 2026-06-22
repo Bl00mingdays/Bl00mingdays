@@ -24,7 +24,7 @@
 ##  Projects
 
 ### [자율 소화 로봇 시스템](https://github.com/sangaje/the-Photatos)
-* 협소 공간 탐사용 소형 로봇을 다수 전개할 수 있는 구호 로봇 시스템
-* Turtlebot3 하드웨어 개조 및 제어용 ROS2 패키지 개발 담당
-* 현재 프로젝트 진행 중
+* 4채널 Flame 센서 어레이를 사용하여 화염의 방향과 강도를 실시간으로 감지
+* 적응형 칼만 필터(Adaptive kalman Filter)를 적용하여 Flame 센서 노이즈 완화
+* Step 모터 및 Servo 모터로 노즐을 화재가 난 곳으로 정밀 조준하여 워터펌프 자동 동작을 통해 화재 진압
 
