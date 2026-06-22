@@ -1,6 +1,5 @@
-<a href="mailto:khw010212@gmail.com">
-  <img src="https://img.shields.io/badge/Email-khw010212@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+## 📬 Contact
+[khw010212@gmail.com](mailto:khw010212@gmail.com)
 
 ## 🛠 Tech Stack
 
